@@ -1,0 +1,7 @@
+/* Swiper overrides */
+.swiper-pagination-bullet {
+  background: rgba(226, 226, 226, 0.4) !important;
+}
+.swiper-pagination-bullet-active {
+  background: #B8965A !important;
+}
