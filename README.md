@@ -1,39 +1,38 @@
-**Welcome to your Base44 project** 
+# InkConcept Homes
 
-**About**
+Luxury real estate web application built with:
 
-View and Edit  your app on [Base44.com](http://Base44.com) 
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
 
-This project contains everything you need to run your app locally.
+## Frontend
 
-**Edit the code in your local development environment**
+Frontend deployed on :contentReference[oaicite:0]{index=0}.
 
-Any change pushed to the repo will also be reflected in the Base44 Builder.
+## Backend (In Development)
 
-**Prerequisites:** 
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
 
-1. Clone the repository using the project's Git URL 
-2. Navigate to the project directory
-3. Install dependencies: `npm install`
-4. Create an `.env.local` file and set the right environment variables
+## Features
 
-```
-VITE_BASE44_APP_ID=your_app_id
-VITE_BASE44_APP_BASE_URL=your_backend_url
+- Luxury property listings
+- Property search & filtering
+- Responsive modern UI
+- Framer Motion page transitions
+- Community showcase
+- Testimonials
+- Advanced property search
+- Admin dashboard (planned)
+- Authentication system (planned)
 
-e.g.
-VITE_BASE44_APP_ID=cbef744a8545c389ef439ea6
-VITE_BASE44_APP_BASE_URL=https://my-to-do-list-81bfaad7.base44.app
-```
+## Development
 
-Run the app: `npm run dev`
+Install dependencies:
 
-**Publish your changes**
-
-Open [Base44.com](http://Base44.com) and click on Publish.
-
-**Docs & Support**
-
-Documentation: [https://docs.base44.com/Integrations/Using-GitHub](https://docs.base44.com/Integrations/Using-GitHub)
-
-Support: [https://app.base44.com/support](https://app.base44.com/support)
+```bash
+npm install
